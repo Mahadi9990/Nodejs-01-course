@@ -1,13 +1,13 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "main": "fsLibrary/index.js",
+  "main": "allPF/httpLibrary/index.js",
   "type":"module",
   
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node fsLibrary/index.js",
-    "dev": "nodemon fsLibrary/index.js"
+    "start": "node allPF/httpLibrary/index.js",
+    "dev": "nodemon allPF/httpLibrary/index.js"
   },
   "keywords": [],
   "author": "",
