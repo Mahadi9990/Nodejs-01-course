@@ -1,13 +1,13 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "fsLibrary/index.js",
   "type":"module",
   
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node fsLibrary/index.js",
+    "dev": "nodemon fsLibrary/index.js"
   },
   "keywords": [],
   "author": "",
